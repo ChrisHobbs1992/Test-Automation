@@ -1,5 +1,5 @@
 [project]
-name = "architecture-decision-records"
+name = "Test-Automation"
 version = "0.1.0"
 description = "MKDocs Material Setup for ADR site"
 readme = "README.md"
