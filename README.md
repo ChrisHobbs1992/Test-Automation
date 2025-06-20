@@ -1,4 +1,4 @@
-# GIG Cymru NHS Wales - {Documentation Site Title}
+# GIG Cymru NHS Wales - Test Automation
 
 > ## How to use this template
 >
